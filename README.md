@@ -13,4 +13,7 @@ Vale ¿y cómo añado una idea? Pues muy facil. Dentro del repo podréis añadir
 
 ## ¿Y cómo votamos las ideas propuestas?
 Pues igual o más facil. Una vez que tengamos un listado de ideas, podremos votar las que nos intesen reaccionando con un 👍.
+<img width="977" alt="imagen" src="https://user-images.githubusercontent.com/5606263/111612317-a6bf2900-87dd-11eb-8602-561e51220513.png">
+
 Es importante que votemos de esta manera para que de esta manera podamos organizar las issues por número de votos.
+<img width="1237" alt="imagen" src="https://user-images.githubusercontent.com/5606263/111612551-de2dd580-87dd-11eb-9a4d-ef2ec01e41c3.png">
